@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehantp&label=Profile%20views&color=0e75b6&style=flat" alt="rehantp" /> </p>
 
-- 🔭 I’m currently Learning at **Sri Lanka institute of information technology**
+- 🔭 I’m currently Learning at **SLIIT**
 
 - 🌱 I’m currently learning **Java**
 <br>
