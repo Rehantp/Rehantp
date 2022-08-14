@@ -2,15 +2,15 @@
 
 <h3 align="center">A Software Engineering Student</h3>
 
-<img align="right" alt="Coding" width="500" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+<img align="right" alt="Coding" width="475" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehantp&label=Profile%20views&color=0e75b6&style=flat" alt="rehantp" /> </p>
 
 - 🔭 I’m currently Learning at **SLIIT**
 
 - 🌱 I’m currently learning **Java**
+
 <br>
-<br><br>
 
 
 <h3 align="left">Connect with me:</h3>
