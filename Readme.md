@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software Engineering Student</h3>
 
-<img align="right" alt="Coding" width="445" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
+<img align="right" alt="Coding" width="425" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehantp&label=Profile%20views&color=0e75b6&style=flat" alt="rehantp" /> </p>
 
