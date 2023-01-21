@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehantp&label=Profile%20views&color=0e75b6&style=flat" alt="rehantp" /> </p>
 
 - 🔭 I’m currently Learning at **SLIIT**
--    (IT21272240) 
+-     (IT21272240) 
 - 🌱 I’m currently learning **Java Script**
 
 
