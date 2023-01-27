@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Learning at **SLIIT**
 -     (IT21272240) 
-- 🌱 I’m currently learning **Mern Stack*
+- 🌱 I’m currently learning **Mern Stack**
 
 
 <br>
