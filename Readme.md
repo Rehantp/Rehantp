@@ -30,9 +30,9 @@
 
 <div align="center">
   
-   ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehantp&show_icons=true&theme=midnight-purple)
+   ![Rehan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rehantp&show_icons=true&theme=midnight-purple)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehantp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rehantp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
  
 </div>
