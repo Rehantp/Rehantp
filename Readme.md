@@ -35,10 +35,6 @@
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rehantp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
  
-</div>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Rehantp/Rehantp/output/github-contribution-grid-snake.svg" />
-</div>
 
 
 
