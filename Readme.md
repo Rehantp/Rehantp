@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehantp&label=Profile%20views&color=0e75b6&style=flat" alt="rehantp" /> </p>
 
 - 🔭 I’m currently Learning at **SLIIT**
--  ID -IT21272240
+- ID -IT21272240
 - 🌱 I’m currently learning **Mern Stack**
 
 
